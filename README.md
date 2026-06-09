@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3000&pause=500&color=0AFF0A&center=true&vCenter=true&width=500&lines=maksimus18ak-droid;PORTFOLIO_ACCESS_GRANTED;SYSTEM_READY" />
+</h1>
 
-<!--
-**maksi20akich-sudo/maksi20akich-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/SECTOR-BACKEND-0AFF0A?style=for-the-badge&logo=matrix" />
+  <img src="https://img.shields.io/badge/LANG-PYTHON%20%7C%20GO%20%7C%20TS-0AFF0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=statuspal" />
+</p>
 
-Here are some ideas to get you started:
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  ███╗   ███╗ █████╗ ██╗  ██╗███████╗██╗███╗   ███╗██╗   ██╗███████╗        │
+│  ████╗ ████║██╔══██╗██║ ██╔╝██╔════╝██║████╗ ████║██║   ██║██╔════╝        │
+│  ██╔████╔██║███████║█████╔╝ ███████╗██║██╔████╔██║██║   ██║███████╗        │
+│  ██║╚██╔╝██║██╔══██║██╔═██╗ ╚════██║██║██║╚██╔╝██║██║   ██║╚════██║        │
+│  ██║ ╚═╝ ██║██║  ██║██║  ██╗███████║██║██║ ╚═╝ ██║╚██████╔╝███████║        │
+│  ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝        │
+└─────────────────────────────────────────────────────────────────────────────┘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  >> SYSTEM_SCAN                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  • Kernel      :  Developer 5.0                                             │
+│  • Shell       :  zsh + starship + tmux                                     │
+│  • Toolchain   :  Docker / Kubernetes / Terraform                           │
+│  • Target      :  Build efficient APIs & data pipelines                     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  >> ACTIVE_REPOS                                                           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  [portfolio-tracker]    –  multi‑language portfolio performance            │
+│  [url-shortener]        –  FastAPI / Gin / Express with base62 + stats     │
+│  [weather-dashboard]    –  Flask, React, Vue + OpenWeatherMap              │
+│  [task-manager-cli]     –  Python, Node, Go – colorized terminal todo      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  >> LANGUAGE_STATS                                                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Python     ████████████████████░░░░░░  72%                                │
+│  Go         ██████████████░░░░░░░░░░░░  55%                                │
+│  TypeScript ██████████░░░░░░░░░░░░░░░░  38%                                │
+│  C#         ██████░░░░░░░░░░░░░░░░░░░░  22%                                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  >> CONTACT                                                                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  • Telegram   :  @maksimus18ak                                             │
+│  • Signal     :  maksimus18ak.42                                           │
+│  • GitHub     :  github.com/maksimus18ak-droid                             │
+└─────────────────────────────────────────────────────────────────────────────┘
